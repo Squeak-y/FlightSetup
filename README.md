@@ -1,4 +1,17 @@
-Hi, this is just a simple little application I made to help me setup flights with Volanta, Navigraph, Addonlinker, Simbrief and microsoft flight sim.
+Hi, this is just a simple little application I made to help me setup flights with Volanta, Navigraph, Addonlinker, Simbrief and microsoft flight 
+sim.
+
+**Requirements**
+This was intended to be used with:
+
+- [Navigraph Charts Desktop Application](https://navigraph.com/)
+- [Volanta ](https://volanta.app/premium/)(Paid version for looking up Schedules)
+- [AddonLinker](https://flightsim.to/file/1572/msfs-addons-linker)
+- [SimBrief](https://www.simbrief.com/)
+
+_I'm not associated with any of the above applications and the application merely provides links to the above sites and services._
+
+![image](https://github.com/Squeak-y/FlightSetup/assets/89707141/ff388868-a25b-4848-ab1c-cf5624a4fdf9)
 
 ### INSTALLATION AND SETUP
 
@@ -6,9 +19,9 @@ Hi, this is just a simple little application I made to help me setup flights wit
 2. Within the Flight Setup folder open the "config.ini" and amend the paths for Volanta, Charts(Navigraph), Addons(Addon Linker) and you Checklists folder.
 		
 _volanta = "YourPathToVolanta.exe"
-_Charts_ = "YourPathToNavigraph Charts.exe"
-_Addons_ = "YourPathToAddonsLinker.exe"
-_Checklists_ = "YourPathToYourChecklistsFolder"_
+Charts = "YourPathToNavigraph Charts.exe"
+Addons = "YourPathToAddonsLinker.exe"
+Checklists = "YourPathToYourChecklistsFolder"_
 
 **To** Easily get the path:
 - Navigate to where the .exe is located (If a shortcut, right click on it and select 'open file location')
