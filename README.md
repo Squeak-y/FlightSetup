@@ -1,5 +1,9 @@
-Hi, this is just a simple little application I made to help me setup flights with Volanta, Navigraph, Addonlinker, Simbrief and microsoft flight 
-sim.
+
+### Squeakys Flight Setup
+Hi, this is just a little application I made to help me setup flights.
+
+### [Latest version is here](https://github.com/Squeak-y/FlightSetup/releases)
+
 
 **Requirements**
 This was intended to be used with:
@@ -55,6 +59,4 @@ _This_ summary I've found is really handy to copy and paste from into Simbrief, 
 
 **Hope you find this useful :)** 
 
-### Download the Zip here and not from the Assets / source bit
-[Flight Setup.zip](https://github.com/Squeak-y/FlightSetup/files/12685047/Flight.Setup.zip)
 
